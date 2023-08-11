@@ -32,7 +32,7 @@ I am currently not accepting contributions to this repository as it is part of m
 
 If you have any questions or would like to get in touch, you can reach me at:
 
-- Email: your.email@example.com
+- Email: sarahahmadmalik55@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sara-ahmad-malik-793429257
 
 
