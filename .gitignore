@@ -1,0 +1,15 @@
+# Ignore Visual Studio project files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Ignore other Visual Studio files and folders
+*.suo
+*.user
+*.sdf
+.vs/
+Debug/
+Release/
+x64/
+.vscode/
