@@ -1,6 +1,6 @@
 # CodSoft Internship - C++ Programming
 
-Welcome to the CodSoft Internship repository for C++ Programming! This repository is dedicated to documenting your progress, tasks, and code related to your 4-week internship at CodSoft. It's a great place to showcase your skills, share your learning journey, and collaborate with your mentors.
+Welcome to the CodSoft Internship repository for C++ Programming! This repository is dedicated to documenting my progress, tasks, and code related to my 4-week internship at CodSoft. 
 
 ## About
 
@@ -8,7 +8,13 @@ This repository contains the code and documentation for my CodSoft internship in
 
 ## Tasks
 
-I will be uploading 4-5 tasks completed during the internship. Each task showcases different aspects of C++ programming and helps in building a strong foundation.
+Throughout the internship, I will work on the following tasks, each focusing on different aspects of C++ programming and contributing to a solid foundation:
+
+1. **Number Guessing Game**
+2. **Arithmetic Calculator**
+3. **Tic Tac Toe**
+4. **Todo List**
+5. **Movie Ticket Booking System**
 
 ## Getting Started
 
